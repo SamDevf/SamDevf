@@ -1,42 +1,49 @@
-# 👋 Olá, eu sou o Samuel Nascimento
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🎓 Sou estudante de **Engenharia de Software** e atualmente estou focado no aprendizado e desenvolvimento em **Front-end**.
+###
 
-💻 Estou construindo minha base em programação, criando projetos de estudo e praticando constantemente para evoluir minhas habilidades técnicas.
+<div align="center">
+  <a href="https://www.linkedin.com/in/samuel-nascimento-98886b285/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/samuca.ns/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
----
+###
 
-## 🚀 O que estou estudando atualmente
+<h1 align="center">👋 Olá, eu sou o Samuel Nascimento</h1>
 
-- 🌐 **HTML** – estruturação de páginas web  
-- 🎨 **CSS** – estilização e layout  
-- ⚙️ **JavaScript** – lógica e interatividade  
-- 🔧 **Git & GitHub** – versionamento e controle de código  
-- 🌍 **Inglês para tecnologia** – leitura, termos técnicos e comunicação na área
+###
 
----
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-## 🎯 Objetivo
+###
 
-Meu principal objetivo é **conseguir meu primeiro emprego como desenvolvedor**, aplicando na prática os conhecimentos adquiridos durante meus estudos e projetos pessoais.
+<p align="left">🎓 Sou estudante de Engenharia de Software e atualmente estou focado no aprendizado e desenvolvimento em Front-end, além de fundamentos de programação com Python.<br><br>🚀 O que estou estudando atualmente<br><br>🌐 HTML – estruturação de páginas web<br>🎨 CSS – estilização e layout<br>⚙️ JavaScript – lógica e interatividade<br>🐍 Python – fundamentos de programação e lógica<br>🔧 Git & GitHub – versionamento e controle de código<br>🌍 Inglês para tecnologia – leitura, termos técnicos e comunicação na área<br><br>💻 Estou construindo minha base em programação, criando projetos de estudo e praticando constantemente para evoluir minhas habilidades técnicas.</p>
 
----
+###
 
-## 📚 Projetos
+<h3 align="left">🛠 Linguagens que utilizo</h3>
 
-📌 *Atualmente desenvolvendo projetos de estudo para praticar e consolidar os conhecimentos em front-end.*  
-Em breve, novos projetos estarão disponíveis por aqui 🚧
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-## 📈 Em constante aprendizado
+###
 
-Acredito que a programação é uma área de aprendizado contínuo. Estou sempre buscando melhorar, aprender novas tecnologias e escrever códigos cada vez mais limpos e organizados.
+<h3 align="left">📫 Contato<br><br>📧 E-mail: sn7samuel03@gmail.com</h3>
 
----
-
-## 📫 Contato
-
-📧 **E-mail:** sn7samuel03@gmail.com  
-
-*(Outros contatos profissionais serão adicionados futuramente.)*
+###
